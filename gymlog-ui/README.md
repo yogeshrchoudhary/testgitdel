@@ -1,3 +1,5 @@
+# This code branch is derived from `gymlog/main`
+
 # GymlogUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
