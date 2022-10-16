@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'gymlog-ui';
+  title = 'Gym Log - Log your daily workout';
 }
